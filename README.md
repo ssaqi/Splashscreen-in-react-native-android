@@ -1,0 +1,1 @@
+# Splashscreen-in-react-native-android
